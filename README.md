@@ -8,3 +8,4 @@ Provide your solutions as pull requests, with the relevant code under a director
 
 If you want to open a dedicated repository for your solution - provide a README.md in your directory linking to the repository.
 
+The solutions should be based on the latest version of the [datapackage-pipelines framework](https://github.com/frictionlessdata/datapackage-pipelines) with minimal dependencies. 
